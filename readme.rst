@@ -7,7 +7,7 @@ it is built using PHP Framework (Codeigniter).
 
 # How to use
 # To view all Tickets
-endpoint url: http://localhost/tickets/app/allTickets <br >
+endpoint url: http://localhost/tickets/app/allTickets <br>
 Request type: Get
 
 # To Add Ticket Type
