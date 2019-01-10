@@ -6,7 +6,9 @@ it is built using PHP Framework (Codeigniter).
 # Note: This API can be tested using Postman.
 
 # How to use
+
 # To view all Tickets
+
 endpoint url: http://localhost/tickets/app/allTickets
 Request type: Get
 
